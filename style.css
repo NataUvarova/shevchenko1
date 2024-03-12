@@ -1,0 +1,150 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    position: absolute;
+    width: 959px;
+    height: 101px;
+    left: 0px;
+    top: 0px;
+
+    background: #0776A0;
+}
+
+nav {
+    position: absolute;
+    width: 135.38px;
+    height: 45px;
+    left: 135px;
+    top: 35px;
+}
+.logo {
+    position: absolute;
+    width: 105px;
+    height: 60px;
+    left: 15px;
+    top: 20px;
+
+}
+h1 {
+    position: absolute;
+    width: 285px;
+    height: 65px;
+    left: 338px;
+    top: 135px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 59px;
+
+    color: #000000;
+}
+
+.a {
+    position: absolute;
+    width: 240px;
+    height: 250px;
+    left: 40px;
+    top: 235px;
+
+    background: url(happy-family-2284698_1920);
+}
+
+.b {
+    position: absolute;
+    width: 200px;
+    height: 250px;
+    left: 310px;
+    top: 235px;
+
+    background: url(children-817368_1920.jpg);
+}
+.c {
+    position: absolute;
+    width: 380px;
+    height: 250px;
+    left: 540px;
+    top: 235px;
+
+    background: url(house-1158139_1920);
+
+}
+h2 {
+
+    position: absolute;
+    width: 418px;
+    height: 66px;
+    left: 42px;
+    top: 545px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+
+    color: #FF2C00;
+}
+ul {
+    
+    list-style: url("https://lms.logikaschool.com/uploads/2021/01/Arrow%201_0_1611261359.svg");
+
+    position: absolute;
+    width: 868px;
+    height: 210px;
+    left: 41px;
+    top: 612px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #000000;
+
+
+}
+
+main p{
+    position: absolute;
+    width: 596px;
+    height: 117px;
+    left: 182px;
+    top: 913px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 59px;
+    text-align: center;
+
+    color: #000000;
+
+
+
+    position: absolute;
+    width: 960px;
+    height: 201px;
+    left: -1px;
+    top: 881px;
+
+}
+
+footer {
+    position: absolute;
+    width: 959px;
+    height: 161px;
+    left: 0px;
+    top: 1140px;
+
+    background: #024C68;
+
+}
+
+
+
+

@@ -1,0 +1,294 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    position: absolute;
+    width: 959px;
+    height: 101px;
+    left: 0px;
+    top: 0px;
+
+    background: #0776A0;
+}
+
+nav {
+    
+
+    position: absolute;
+    width: 226px;
+    height: 45px;
+    left: 137px;
+    top: 35px;
+
+
+}
+.logo {
+    position: absolute;
+    width: 105px;
+    height: 60px;
+    left: 15px;
+    top: 20px;
+
+}
+h1 {
+ 
+
+    position: absolute;
+    width: 459px;
+    height: 66px;
+    left: 250px;
+    top: 136px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 59px;
+
+    color: #000000;   
+}
+
+h2 {
+    
+
+    position: absolute;
+    width: 387px;
+    height: 72px;
+    left: 36px;
+    top: 237px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+
+    color: #FF2C00;
+
+
+}
+
+.first {
+
+    position: absolute;
+    width: 190px;
+    height: 250px;
+    left: 40px;
+    top: 310px;
+
+    background: url(needlework-2375686_1920);
+
+}
+.second {
+
+    position: absolute;
+    width: 371px;
+    height: 250px;
+    left: 265px;
+    top: 310px;
+
+    background: url(tram-1883143_640.jpg);
+
+}
+.three {
+
+    position: absolute;
+    width: 210px;
+    height: 250px;
+    left: 670px;
+    top: 310px;
+
+    background: url(handmade-childrens-work-4823797_1920.jpg);
+
+}
+
+
+.d {
+    position: absolute;
+    width: 190px;
+    height: 250px;
+    left: 40px;
+    top: 595px;
+
+    background: url(owl-2199129_1920);
+
+}
+
+.e {
+    position: absolute;
+    width: 165px;
+    height: 250px;
+    left: 265px;
+    top: 595px;
+
+    background: url(crafts-out-of-clay-752738_640);
+
+}
+.g {
+
+    position: absolute;
+    width: 175px;
+    height: 250px;
+    left: 465px;
+    top: 595px;
+
+    background: url(baby-doll-1172494_1920);
+}
+.h {
+
+    position: absolute;
+    width: 210px;
+    height: 250px;
+    left: 670px;
+    top: 595px;
+
+    background: url(amber-3390188_1920);
+
+}
+h2 {
+
+    position: absolute;
+    width: 418px;
+    height: 66px;
+    left: 42px;
+    top: 545px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+
+    color: #FF2C00;
+}
+h3 {
+    
+
+    position: absolute;
+    width: 387px;
+    height: 51px;
+    left: 33px;
+    top: 872px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+
+    color: #FF2C00;
+
+
+}
+.fir {
+    position: absolute;
+    width: 265px;
+    height: 335px;
+    left: 40px;
+    top: 950px;
+
+    background: url(vegetables-1892900_1920);
+
+}
+.sec {
+
+    position: absolute;
+    width: 530px;
+    height: 335px;
+    left: 340px;
+    top: 950px;
+
+    background: url(flora-3798010_1920.jpg);
+}
+h4 {
+    position: absolute;
+    width: 421px;
+    height: 49px;
+    left: 29px;
+    top: 1321px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+
+    color: #FF2C00;
+}
+.l {
+    position: absolute;
+    width: 400px;
+    height: 270px;
+    left: 40px;
+    top: 1406px;
+
+    background: url(sea-2097890_1920);
+}
+.lo {
+    position: absolute;
+    width: 395px;
+    height: 270px;
+    left: 475px;
+    top: 1406px;
+
+    background: url(hand-3479706_1920);
+
+}
+.ol {
+    position: absolute;
+    width: 400px;
+    height: 270px;
+    left: 40px;
+    top: 1710px;
+
+    background: url(mountains-4982333_1920);
+
+}
+.loo {
+    position: absolute;
+    width: 395px;
+    height: 270px;
+    left: 475px;
+    top: 1710px;
+
+    background: url(sochi-952140_1920);
+
+}
+main p{
+    position: absolute;
+    width: 596px;
+    height: 117px;
+    left: 182px;
+    top: 913px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 59px;
+    text-align: center;
+
+    color: #000000;
+
+
+
+    position: absolute;
+    width: 960px;
+    height: 201px;
+    left: -1px;
+    top: 881px;
+
+}
+
+footer {
+    position: absolute;
+    width: 959px;
+    height: 160px;
+    left: 0px;
+    top: 2005px;
+
+    background: #024C68;
+}
+
+
